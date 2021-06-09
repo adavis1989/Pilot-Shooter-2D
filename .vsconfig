@@ -1,6 +1,3 @@
-{
-  "version": "1.0",
-  "components": [ 
-    "Microsoft.VisualStudio.Workload.ManagedGame"
-  ]
-} 
+version https://git-lfs.github.com/spec/v1
+oid sha256:36b546ea23eeba523e71ab56452ed57b2a931a6e38514ef948856a59d150434f
+size 98
