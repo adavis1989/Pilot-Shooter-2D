@@ -3598,3 +3598,12 @@
 /Windows Playable Build/Pilot Shotter 2D_Data/Resources/unity default resources filter=lfs diff=lfs merge=lfs -text
 *.info filter=lfs diff=lfs merge=lfs -text
 *.cache filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/31/3122e04884e0a1c7c4c0cb4f6d1fb0ae filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/33/339f7e1565b233fdd96701c5ed7c408e filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/41/4185b7f83989a438ff49ce5e237b0e84 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/56/56d2943b5fdc26431a01030b75ffe485 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/76/76a801677e25e9ff7ba164fbb24730a9 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/9e/9e909f1771fbb8e6e1eddfb61329313e filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/b4/b433dc7aae00e65ae50b253ee761795b filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/be/be08b568ab2ebf8101591ca7b7822bd9 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/e5/e5b8824190bdfd75e03972e5836ed924 filter=lfs diff=lfs merge=lfs -text
